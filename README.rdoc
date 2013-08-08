@@ -76,5 +76,7 @@ You may wish to host the controller and providers on different machines in a rea
 == Copyright
 
 Copyright (c) 2009-2011 Tim Koopmans.
+
 Copyright (c) 2013 Jared Koumentis.
+
 See LICENSE for details.
